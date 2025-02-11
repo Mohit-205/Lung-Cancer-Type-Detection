@@ -24,3 +24,7 @@ Clone or download the repository files.
 Ensure you have the LungCancerModel1.mat file saved in your working directory or update the path to the file in the code.
 Dataset
 The app uses the IQ-OTHNCCD Lung Cancer Dataset (a sample lung cancer image dataset) for training the CNN model. The dataset contains lung cancer images categorized by type. Ensure that you have the dataset available in your local environment to proceed with training or using the pre-trained model.
+
+User interface & working:
+![1](https://github.com/user-attachments/assets/3de7ebc4-0f96-41d6-bce4-ad3e95f52b82)
+![2](https://github.com/user-attachments/assets/87dca299-f019-4b7f-beb2-a2d2e61ff6d8)
